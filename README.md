@@ -2,6 +2,7 @@
 Repositorio del Grupo D
 
 ---
+**Coordinador:** Maxwell Baxter (MaxwellBM)
 
 ## Clonar-Repositorio
 
